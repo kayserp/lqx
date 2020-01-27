@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Lqx Core
+Comment=Lqx P2P Cryptocurrency
+Exec=lqx-qt %u
+Terminal=false
+Type=Application
+Icon=lqx128
+MimeType=x-scheme-handler/lqx;
+Categories=Office;Finance;
+Name[en_US]=lqx-qt.desktop

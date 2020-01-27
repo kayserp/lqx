@@ -1,0 +1,6 @@
+usr/local/bin/lqx-qt usr/bin
+share/pixmaps/lqx32.xpm usr/share/pixmaps
+share/pixmaps/lqx16.xpm usr/share/pixmaps
+share/pixmaps/lqx128.png usr/share/pixmaps
+debian/lqx-qt.desktop usr/share/applications
+debian/lqx-qt.protocol usr/share/kde4/services/
